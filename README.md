@@ -13,7 +13,12 @@ Current strawberry harvesting relies heavily on manual labor. The system integra
 ## 📸 System Gallery & Demonstration
 
 ### Video Demonstration
-*(Drag and drop your project video file right here while editing in GitHub, and it will automatically embed a playable video!)*
+<div align="center">
+  <video width="600" controls>
+    <source src="media/video.mov" type="video/quicktime">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ### Main Platform
 <div align="center">
