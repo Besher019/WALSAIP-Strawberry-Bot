@@ -15,10 +15,6 @@ Current strawberry harvesting relies heavily on manual labor. The system integra
 https://github.com/user-attachments/assets/9e9df442-f001-480b-a09a-1c8761bedad1
 
 
-<p align="center">
-  Click the image to watch the full demonstration video.
-</p>
-
 ### Main Platform
 <div align="center">
   <img src="media/main.JPG" width="600" alt="WALSAIP Main Platform">
