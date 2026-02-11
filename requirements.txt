@@ -1,0 +1,10 @@
+# Web Server & Utilities
+Flask==3.0.0
+Werkzeug==3.0.1
+requests==2.31.0
+PyYAML==6.0.1
+
+# Computer Vision & AI Inference
+ultralytics==8.0.200
+opencv-python==4.8.1.78
+numpy==1.26.2
