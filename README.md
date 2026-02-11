@@ -15,7 +15,7 @@ Current strawberry harvesting relies heavily on manual labor. The system integra
 ### Video Demonstration
 <div align="center">
   <video width="600" controls muted loop playsinline>
-    <source src="media/video.mp4" type="video/mp4">
+    <source src="https://github.com/user-attachments/assets/9e9df442-f001-480b-a09a-1c8761bedad1" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
