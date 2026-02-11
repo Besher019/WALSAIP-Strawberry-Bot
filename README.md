@@ -15,10 +15,15 @@ Current strawberry harvesting relies heavily on manual labor. The system integra
 ### Video Demonstration
 *(Drag and drop your project video file right here while editing in GitHub, and it will automatically embed a playable video!)*
 
+### Main Platform
+<div align="center">
+  <img src="media/main.JPG" width="600" alt="WALSAIP Main Platform">
+</div>
+
 ### Hardware Overview
 | Front View | Side View | Top View | Undercarriage (Motors) |
 | :---: | :---: | :---: | :---: |
-| <img src="media/main.JPG" width="250"> | <img src="media/front.JPG" width="250"> | <img src="media/left.JPG" width="250"> | <img src="media/up.JPG" width="250"> | <img src="media/down.JPG" width="250"> |
+| <img src="media/front.JPG" width="250"> | <img src="media/left.JPG" width="250"> | <img src="media/up.JPG" width="250"> | <img src="media/down.JPG" width="250"> |
 
 ### Software & Interfaces
 | Web Dashboard (Live AI Inference) | ROS 2 Nav2 SLAM Mapping (RViz) |
