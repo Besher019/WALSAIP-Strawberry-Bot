@@ -46,7 +46,7 @@ The platform emphasizes low-cost, modular, and off-the-shelf components:
 
 The perception system is powered by a custom-trained YOLOv11 deep learning model, designed specifically to detect and classify strawberries into "Ripe" and "Unripe" categories from side-view perspectives. 
 
-While the model utilizes transfer learning from COCO base weights to ensure rapid and stable convergence, it was trained entirely on a **custom-engineered dataset** gathered by the team under varying real-world greenhouse lighting and occlusion conditions. 
+While the model utilizes transfer learning from COCO base weights to ensure rapid and stable convergence, the dataset was personally collected, labeled, and prepared by the author under real-world greenhouse lighting and occlusion conditions.
 
 ### Model Performance Metrics
 The model achieves a strong balance between speed and accuracy for edge deployment on the Raspberry Pi 5, reaching an impressive **mAP@0.5 of 94.3%**.
