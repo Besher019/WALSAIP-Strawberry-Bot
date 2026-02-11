@@ -42,6 +42,29 @@ The platform emphasizes low-cost, modular, and off-the-shelf components:
 
 ---
 
+## 🧠 AI Vision System & Performance
+
+The perception system is powered by a custom-trained YOLOv11 deep learning model, designed specifically to detect and classify strawberries into "Ripe" and "Unripe" categories from side-view perspectives. 
+
+While the model utilizes transfer learning from COCO base weights to ensure rapid and stable convergence, it was trained entirely on a **custom-engineered dataset** gathered by the team under varying real-world greenhouse lighting and occlusion conditions. 
+
+### Model Performance Metrics
+The model achieves a strong balance between speed and accuracy for edge deployment on the Raspberry Pi 5, reaching an impressive **mAP@0.5 of 94.3%**.
+
+*Note: The graphs below detail the model's high precision and recall capabilities across different confidence thresholds.*
+
+| Confusion Matrix | Normalized Confusion Matrix |
+| :---: | :---: |
+| <img src="media/confusion_matrix.png" width="400"> | <img src="media/normalized_confusion_matrix.png" width="400"> |
+
+| F1-Confidence Curve | Precision-Recall Curve |
+| :---: | :---: |
+| <img src="media/f1_curve.png" width="400"> | <img src="media/precision_recall_curve.png" width="400"> |
+
+| Precision-Confidence Curve | Recall-Confidence Curve |
+| :---: | :---: |
+| <img src="media/precision_curve.png" width="400"> | <img src="media/recall_curve.png" width="400"> |
+
 ## ⚙️ Operations & Deployment Guide
 
 The robot utilizes a split environment: base operations run on the Raspberry Pi host, while the ROS 2 environment is isolated inside a Docker container named `MentorPi`.
