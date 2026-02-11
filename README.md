@@ -12,13 +12,15 @@ Current strawberry harvesting relies heavily on manual labor. The system integra
 
 ## 📸 System Gallery & Demonstration
 
-### Video Demonstration
 <div align="center">
-  <video width="600" controls muted loop playsinline>
-    <source src="https://github.com/user-attachments/assets/9e9df442-f001-480b-a09a-1c8761bedad1" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://github.com/user-attachments/assets/9e9df442-f001-480b-a09a-1c8761bedad1">
+    <img src="media/video_thumbnail.png" width="600" alt="Watch WALSAIP Demo Video">
+  </a>
 </div>
+
+<p align="center">
+  Click the image to watch the full demonstration video.
+</p>
 
 ### Main Platform
 <div align="center">
